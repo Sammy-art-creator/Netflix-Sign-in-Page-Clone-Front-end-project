@@ -14,4 +14,7 @@ El objetivo del proyecto es **practicar diseño responsivo, animaciones CSS**.
 ## 🛠️ Tecnologías Usadas  
 - **Frontend:** HTML5, CSS3
 - **Estilos:** Flexbox, Grid, Animaciones CSS  
-- **Deploy:** Vercel / Netlify / GitHub Pages  
+- **Deploy:** Vercel
+
+## 🚀 Demo en Vivo  
+🔗 [Ver Proyecto en Vercel](https://netflix-sign-in-page-clone-front-end-project.vercel.app)  
