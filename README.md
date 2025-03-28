@@ -15,7 +15,3 @@ El objetivo del proyecto es **practicar diseño responsivo, animaciones CSS**.
 - **Frontend:** HTML5, CSS3
 - **Estilos:** Flexbox, Grid, Animaciones CSS  
 - **Deploy:** Vercel / Netlify / GitHub Pages  
-
-## 📸 Capturas de Pantalla  
-![Captura 1](image.png)
-![Captura 2](image-1.png)
